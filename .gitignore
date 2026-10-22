@@ -1,0 +1,62 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Builds
+/[Bb]uild/
+/[Bb]uilds/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+
+# Visual Studio / Rider generated
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# Gradle
+.gradle/
+
+# Unity generated
+sysinfo.txt
+mono_crash.*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Unity packages/build output
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# JetBrains Rider Unity plugin
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Test generated scenes
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Addressables generated
+/ServerData
+/[Aa]ssets/StreamingAssets/aa*
+/[Aa]ssets/Addressables_Temp*
